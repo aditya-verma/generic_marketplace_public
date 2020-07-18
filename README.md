@@ -10,7 +10,7 @@ The reference based model of our application would be helpful in tracking down s
 
 The platform would be customised as per the specific domains like agriculture, sericulture, horticulture, raw materials, gems and jewellery and many more. This home grown application would have the ability to boost Indian economy by uplifting the common businessman. This will enable the creation of a much needed level playing field for all the traders. There would be no need to have connections in the supply chain and any such contact based prerequisites. This will also help in ensuring fair play as "Big Players" won’t be able to influence the market.
 
-###Features:
+### Features:
 - Features such as public post listing which would have the mass reachability throughout the users in India who are the part of the supply chain.
 - Verified users with profile rank based on their successful trades made.
 - Reference based model which would be helpful tracking down scammers.
