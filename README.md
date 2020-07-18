@@ -1,4 +1,4 @@
-# GENERIC MARKETPLACE PUBLIC
+# Karobari
 
 The name of our application is “Karobari” which means “Businessman”. Today everyone wants to earn and wants to become a successful businessman but not knowing the supply chain restricts them, so our aim is to provide anyone who wants to start a business with a free online market tool where they can create listings as per their selling and/or buying needs thus creating business to business lead generation. This trading platform boasts of features such as public post listing which would enable them to extend their customer base throughout the users in India who are a part of the supply chain. There would also be geolocation filters so that the user can target a specific area or a broader market as per his requirements and inventory.
 
